@@ -2,7 +2,7 @@
 
 ## Hotkeys - advise to change them to : 
 
-- Split pane, split down : ctrl + h (from horizontal)
+- Split pane, split down : ```ctrl + h (from horizontal)```
 - Split pane, split right : ctrl + v (from Vertical) 
 - New tab : ctrl + t
 - Close pane : ctrl + w
