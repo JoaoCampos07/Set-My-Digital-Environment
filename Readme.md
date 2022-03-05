@@ -1,5 +1,5 @@
 
-Necessary programs by order :
+# Necessary programs by order :
 - Favourite browser
 - Notepad++ 
 - Git (during the installation we will have to stick with VIM or choose another like Notepad++ that we previwed installed)
