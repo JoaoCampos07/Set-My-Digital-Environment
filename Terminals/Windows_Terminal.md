@@ -2,8 +2,8 @@
 
 ## Hotkeys - advise to change them to : 
 
-- Split pane, split down : ```ctrl + h (from horizontal)```
-- Split pane, split right : ```ctrl + v (from Vertical)```
+- Split pane, split down : ```alt + shift + - (from horizontal)```
+- Split pane, split right : ```alt + shift + | (from Vertical)```
 - New tab : ```ctrl + t```
 - Close pane :```ctrl + w```
 ### Use "Alt" and go dropdown and open new terminal, it will open splitting with current screen. 
