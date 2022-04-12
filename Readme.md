@@ -12,3 +12,4 @@
 - PDFs :
    - Adobe Reader DC 
    - Drawboard PDF (you can write in the PDFs themselfs without paying)
+- LightShot
