@@ -10,7 +10,6 @@
 - WinMerge : To compare files or directories for differences. It can also be used was a merge tool. 
 - 7-Zip
 \
-\
 - PDFs
    - Adobe Reader DC 
    - Drawboard PDF (you can write in the PDFs themselfs without paying)
