@@ -14,5 +14,5 @@
   - Adobe Reader DC 
   - Drawboard PDF (you can write in the PDFs themselfs without paying)
 
-1. First list item
+- First list item
    - First nested list item
