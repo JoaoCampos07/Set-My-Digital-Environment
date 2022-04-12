@@ -9,6 +9,6 @@
 - Microsoft PowerToys (I can create zones in the screen and just check and use several apps at the same time)
 - WinMerge : To compare files or directories for differences. It can also be used was a merge tool. 
 - 7-Zip
-- PDFs
+- PDFs :
    - Adobe Reader DC 
    - Drawboard PDF (you can write in the PDFs themselfs without paying)
