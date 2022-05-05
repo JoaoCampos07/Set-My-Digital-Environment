@@ -1,3 +1,4 @@
+## Modifying the Registry of the OS to open VS Code from any Directory
 
 ![Screenshot_1](https://user-images.githubusercontent.com/49458268/166927010-412f3b75-ae80-4e48-9693-a674b58f024b.png)
 
